@@ -1,19 +1,19 @@
 <html>
     <head>
         <style>
-            #grad1{background-color: red;
-                background-image: linear-gradient(to bottom, red, orange, yellow, green, blue, indigo, purple); 
+            #grad1{background-color: springgreen;
                    background-image: url("cool color.jpg");
                   background-size:contain;
                 background-repeat:no-repeat
                 }
+            #grad2{background-image: linear-gradient(to bottom, red, orange, yellow, green, blue, indigo, purple)}
 
                    
         </style>
     </head>
     <body id="grad1">
         <div style="text-align: center; margin: auto; font-size: 100; color: white; font-weight: 900;">These are Colours!</div><br><br><br><br><br><br><br><br><br>
-        <p style="font-weight: 900; font-size: 20">Color (or colour in Commonwealth English; see spelling differences) is the visual perception based on the
+        <p id="grad2"style="font-weight: 900; font-size: 20; ">Color (or colour in Commonwealth English; see spelling differences) is the visual perception based on the
         electromagnetic spectrum. Though color is not an inherent property of matter, color perception is related to an object's
         light absorption, reflection, emission spectra, and interference. For most humans, colors are perceived in the visible
         light spectrum with three types of cone cells (trichromacy). Other animals may have a different number of cone cell
