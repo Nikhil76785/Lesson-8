@@ -1,0 +1,11 @@
+<html>
+    <head>
+        <style>
+            #grad1{background-color: red;
+                   background-image: linear-gradient(to bottom, red, orange, yellow, green, blue, indigo, purple);}
+        </style>
+    </head>
+    <body id="grad1">
+        <div style="text-align: center; margin: auto; font-size: 100; color: white; font-weight: 900;">This is a Gradient!</div>
+    </body>
+</html>
