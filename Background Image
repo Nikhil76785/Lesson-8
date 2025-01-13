@@ -1,0 +1,15 @@
+<html>
+    <head>
+        <style>
+            body{background-color: aqua;
+                 background-image: url(20231015_071002.jpg);
+                 background-repeat: no-repeat;
+                 background-position: center;
+                 background-attachment: fixed;
+                background-size: contain;}
+        </style>
+    </head>
+    <body>
+        <h1 style="color:red">Me In The Desert, Yahoo!</h1>
+    </body>
+</html>
