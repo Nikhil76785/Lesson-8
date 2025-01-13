@@ -1,0 +1,24 @@
+<html>
+    <head>
+        <style>
+            #grad1{background-color: red;
+                background-image: linear-gradient(to bottom, red, orange, yellow, green, blue, indigo, purple); 
+                   background-image: url("cool color.jpg");
+                  background-size:contain;
+                background-repeat:no-repeat
+                }
+
+                   
+        </style>
+    </head>
+    <body id="grad1">
+        <div style="text-align: center; margin: auto; font-size: 100; color: white; font-weight: 900;">These are Colours!</div><br><br><br><br><br><br><br><br><br>
+        <p style="font-weight: 900; font-size: 20">Color (or colour in Commonwealth English; see spelling differences) is the visual perception based on the
+        electromagnetic spectrum. Though color is not an inherent property of matter, color perception is related to an object's
+        light absorption, reflection, emission spectra, and interference. For most humans, colors are perceived in the visible
+        light spectrum with three types of cone cells (trichromacy). Other animals may have a different number of cone cell
+        types or have eyes sensitive to different wavelengths, such as bees that can distinguish ultraviolet, and thus have a
+        different color sensitivity range. Animal perception of color originates from different light wavelength or spectral
+        sensitivity in cone cell types, which is then processed by the brain.</p>
+    </body>
+</html>
